@@ -35,6 +35,13 @@ Antes de começar, é preciso:
 
 ---
 
+## 📸 Capturas de Ecrã
+
+![image](https://github.com/user-attachments/assets/cf96f316-054a-4ab2-94a8-96eccebbdc4f)
+![image](https://github.com/user-attachments/assets/51a99aa7-c4ec-4078-ae45-bd59caa50728)
+
+---
+
 ## 🤝 Como contribuir
 
 Contribuições são bem-vindas!  
@@ -42,6 +49,7 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar um pull reque
 
 ---
 
-## 👩‍💻 Autor
+## 👩‍💻 Autora
 
 - [Carolina Reis](https://github.com/luanacarolinareis)
+- Experiência de aprendizagem baseada no vídeo de [Game Maker's Toolkit](https://youtu.be/XtQMytORBmM?si=OAvM76RtreC9XS9z)
