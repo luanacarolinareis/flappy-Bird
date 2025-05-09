@@ -27,7 +27,7 @@ Antes de começar, é preciso:
 
 1. **Clone o repositório**
     ```
-    git clone https://github.com/luanacarolinareis/flappyBird.git
+    git clone https://github.com/luanacarolinareis/flappy-Bird.git
     ```
 2. **Abra a pasta no Unity**
 3. **Compile e execute a cena principal**
